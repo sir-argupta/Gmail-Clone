@@ -1,4 +1,7 @@
+# Gmail-Clone
 Gmail Clone
+
+#Please read it !!!!
 
 Here's the link of my gmail clone :
 https://clone-54105.web.app/
@@ -6,9 +9,11 @@ https://clone-54105.web.app/
 This build have the following:
 👉 REDUX 👉 REACT ROUTER 👉 FIREBASE FIRESTORE (realtime database) 👉 FIREBASE AUTHENTICATION (Login) 👉 FIREBASE HOSTING (How to deploy) 👉 REACT HOOKS FORMS 👉 MATERIAL UI (Design)
 
+some feature will only works offline... {Compose Email & Reply Email}
+
 MORE!
 
-Install following packages
+Install following packages 
 
 yarn add @material-ui/core
 
